@@ -165,4 +165,3 @@ spec:
         - name: ${APP_NAME}            # Placeholder for application name
           image: ${AWS_ECR_REPO}:${IMAGE_NAME}   # Placeholders for ECR repository and image tag
 ```
----
